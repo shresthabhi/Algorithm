@@ -18,7 +18,7 @@ a line.
 A sequence of ‘Yes’ or ‘No’ on the output file.
 
 #### <span style="color:red"> **Sample Input**</span>
-3
+3<br>
 ([])<br/>
 (([()])))<br/>
 ([()[]()])<br/>
