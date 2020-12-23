@@ -19,14 +19,12 @@ A sequence of ‘Yes’ or ‘No’ on the output file.
 
 #### <span style="color:red"> **Sample Input**</span>
 3
-([])\n
-(([()])))\n
-([()[]()])()
+([])<br/>
+(([()])))<br/>
+([()[]()])<br/>
 
 #### <span style="color:red"> **Sample Input**</span>
-Yes
-
-No
-
-Yes
+Yes<br>
+No<br>
+Yes<br>
 
