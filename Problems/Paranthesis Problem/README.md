@@ -1,3 +1,5 @@
+This problem is taken from Online Judge Website
+
 ### <a href =  "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=614">673 - Parentheses Balance </a>
 
 You are given a string consisting of parentheses()and[]. A string of this type is said to be _correct_ :
@@ -28,3 +30,4 @@ Yes<br>
 No<br>
 Yes<br>
 
+##### For Solution : <a href = "https://github.com/shresthabhi/Algorithm/blob/master/Problems/Paranthesis%20Problem/parantheses_balance.cpp">Click Here</a>
