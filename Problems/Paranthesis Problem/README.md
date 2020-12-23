@@ -19,10 +19,8 @@ A sequence of ‘Yes’ or ‘No’ on the output file.
 
 #### <span style="color:red"> **Sample Input**</span>
 3
-([])
-
-(([()])))
-
+([])\n
+(([()])))\n
 ([()[]()])()
 
 #### <span style="color:red"> **Sample Input**</span>
