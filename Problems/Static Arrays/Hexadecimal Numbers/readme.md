@@ -14,5 +14,5 @@ For each test case, you are required to print exactly T numbers as the output.
 
 ## Constraints
 
-**1 $\leq$ T $\leq$ 50**
-**1 $\leq$ L, R $\leq$ $10_5$**
+**1 <= T <= 50**
+**1 <= L, R <= 10^5**
