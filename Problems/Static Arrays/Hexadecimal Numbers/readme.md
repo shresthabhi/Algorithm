@@ -15,4 +15,5 @@ For each test case, you are required to print exactly T numbers as the output.
 ## Constraints
 
 **1 <= T <= 50**
+
 **1 <= L, R <= 10^5**
