@@ -15,13 +15,10 @@ In many computer problems, it is necessary to permute data arrays. That is, the 
 1
 
 
-3 1 2
-
-32.0 54.7 -2
+3 1 2 </br>
+32.0 54.7 -2 </br>
 
 ## Sample Output
-54.7
-
--2
-
-32.0
+54.7</br>
+-2</br>
+32.0</br>
