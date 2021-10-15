@@ -1,6 +1,6 @@
 # UVa 482 - Permutation Arrays
 
-In many computer problems, it is necessary to permute data arrays. That is, the data in an array must be re-arranged in some specified order. One way to permute arbitrary data arrays is to specify the permutations with an index array to point out the position of the elements in the new array. Let x be an array that is to be permuted and let x′ be the permuted array. Then, we have the relationship between x and x′ that x'<sub>pi/sub> = x<sub>i<sub>.
+In many computer problems, it is necessary to permute data arrays. That is, the data in an array must be re-arranged in some specified order. One way to permute arbitrary data arrays is to specify the permutations with an index array to point out the position of the elements in the new array. Let x be an array that is to be permuted and let x′ be the permuted array. Then, we have the relationship between x and x′ that x'<sub>pi</sub> = x<sub>i<sub>.
 
 ## Input
 - The input begins with a single positive integer on a line by itself indicating the number of the cases following, each of them as described below. This line is followed by a blank line, and there is also a blank line between two consecutive inputs.
@@ -14,10 +14,14 @@ In many computer problems, it is necessary to permute data arrays. That is, the 
 ## Sample Input
 1
 
+
 3 1 2
+
 32.0 54.7 -2
 
 ## Sample Output
 54.7
+
 -2
+
 32.0
